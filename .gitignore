@@ -28,5 +28,4 @@ lerna-debug.log*
 .env
 .env.local
 
-# Temporary / Legacy folders
-student-frontend/
+
